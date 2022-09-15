@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bingxuan\\source\\repos\\WebReqSharp\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "D:\\Storage\\Source\\WebReqSharp\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\bingxuan\\source\\repos\\WebReqSharp\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "D:\\Storage\\Source\\WebReqSharp\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\bingxuan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bingxuan\\source\\repos\\WebReqSharp\\ConsoleApp1\\obj\\",
+      "outputPath": "D:\\Storage\\Source\\WebReqSharp\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,8 +58,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\bingxuan\\source\\repos\\WebReqSharp\\WebReqSharp\\WebReqSharp.csproj": {
-              "projectPath": "C:\\Users\\bingxuan\\source\\repos\\WebReqSharp\\WebReqSharp\\WebReqSharp.csproj"
+            "D:\\Storage\\Source\\WebReqSharp\\WebReqSharp\\WebReqSharp.csproj": {
+              "projectPath": "D:\\Storage\\Source\\WebReqSharp\\WebReqSharp\\WebReqSharp.csproj"
             }
           }
         }

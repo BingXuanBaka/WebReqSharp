@@ -20,8 +20,11 @@ namespace ConsoleApp1
                 }
             };
             request.Send();
+
             // Console.WriteLine(Encoding.UTF8.GetString(request.GetResponseBytes()));
             Console.WriteLine(request.GetResponseString());
+
+            Console.WriteLine(request.Response.StatusCode);
         }
     }
 }

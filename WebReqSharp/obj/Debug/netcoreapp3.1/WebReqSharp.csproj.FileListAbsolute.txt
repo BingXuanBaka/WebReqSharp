@@ -8,3 +8,13 @@ C:\Users\bingxuan\source\repos\WebReqSharp\WebReqSharp\obj\Debug\netcoreapp3.1\W
 C:\Users\bingxuan\source\repos\WebReqSharp\WebReqSharp\obj\Debug\netcoreapp3.1\WebReqSharp.csproj.CoreCompileInputs.cache
 C:\Users\bingxuan\source\repos\WebReqSharp\WebReqSharp\obj\Debug\netcoreapp3.1\WebReqSharp.dll
 C:\Users\bingxuan\source\repos\WebReqSharp\WebReqSharp\obj\Debug\netcoreapp3.1\WebReqSharp.pdb
+D:\Storage\Source\WebReqSharp\WebReqSharp\bin\Debug\netcoreapp3.1\WebReqSharp.deps.json
+D:\Storage\Source\WebReqSharp\WebReqSharp\bin\Debug\netcoreapp3.1\WebReqSharp.dll
+D:\Storage\Source\WebReqSharp\WebReqSharp\bin\Debug\netcoreapp3.1\WebReqSharp.pdb
+D:\Storage\Source\WebReqSharp\WebReqSharp\obj\Debug\netcoreapp3.1\WebReqSharp.csproj.AssemblyReference.cache
+D:\Storage\Source\WebReqSharp\WebReqSharp\obj\Debug\netcoreapp3.1\WebReqSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Storage\Source\WebReqSharp\WebReqSharp\obj\Debug\netcoreapp3.1\WebReqSharp.AssemblyInfoInputs.cache
+D:\Storage\Source\WebReqSharp\WebReqSharp\obj\Debug\netcoreapp3.1\WebReqSharp.AssemblyInfo.cs
+D:\Storage\Source\WebReqSharp\WebReqSharp\obj\Debug\netcoreapp3.1\WebReqSharp.csproj.CoreCompileInputs.cache
+D:\Storage\Source\WebReqSharp\WebReqSharp\obj\Debug\netcoreapp3.1\WebReqSharp.dll
+D:\Storage\Source\WebReqSharp\WebReqSharp\obj\Debug\netcoreapp3.1\WebReqSharp.pdb
